@@ -1,3 +1,5 @@
+Detailed description about LSTM and RNN in prediction of time series can be seen in the author's blog:http://www.cnblogs.com/arkenstone/p/5794063.html#3750733
+
 **trainingset_selection.py** is used to format input data to training data set. It will return files of those enterprises satisfying the screening rule.
 
 **neural_network_run.py** is used to train neural network for time series prediction. It returns a lstm model and evaluation results of the model.
